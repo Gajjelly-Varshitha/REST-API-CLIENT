@@ -28,4 +28,4 @@ This project demonstrates essential concepts such as REST API consumption, HTTP 
 
 *OUTPUT*
 
-<img width="1243" height="424" alt="Image" src="https://github.com/user-attachments/assets/0bb50771-8740-40ef-b424-3df80669d6ce" />
+<img width="1243" height="424" alt="Image" src="https://github.com/user-attachments/assets/0bb50771-8740-40ef-b424-3df80669d6ce" /> 
