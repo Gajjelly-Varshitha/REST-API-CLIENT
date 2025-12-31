@@ -25,3 +25,7 @@ The program specifically extracts weather-related information such as current te
 The application also includes basic exception handling to manage potential runtime errors such as network issues, invalid responses, or input/output failures. This ensures that the program does not terminate unexpectedly and helps in debugging errors efficiently. The use of Maven for dependency management further enhances the project by simplifying library inclusion and ensuring compatibility across different environments.
 
 This project demonstrates essential concepts such as REST API consumption, HTTP communication, JSON parsing, and console-based data presentation using Java. It is suitable for beginners as well as intermediate learners who want hands-on experience with web services.
+
+*OUTPUT*
+
+<img width="1243" height="424" alt="Image" src="https://github.com/user-attachments/assets/0bb50771-8740-40ef-b424-3df80669d6ce" />
